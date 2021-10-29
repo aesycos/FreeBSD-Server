@@ -1,4 +1,5 @@
 # DigitalOcean FreeBSD Droplet Setup
+<<<<<<< HEAD
 [![Updated Badge](https://badges.pufler.dev/updated/aesycos/FreeBSD-Server)](#)
 
 ## Files
@@ -22,7 +23,10 @@
  - Install **MySQL**
  - Install **PHP**
  - Finish with a test page at **ServerRoot/info.php**
+<<<<<<< HEAD
 
  ## Credits
  [How To Install an Apache, MySQL, and PHP (FAMP) Stack on FreeBSD 12.0](https://www.digitalocean.com/community/tutorials/how-to-install-an-apache-mysql-and-php-famp-stack-on-freebsd-12-0)
  [Recommended Steps For New FreeBSD 12.0 Servers](https://www.digitalocean.com/community/tutorials/recommended-steps-for-new-freebsd-12-0-servers)
+=======
+>>>>>>> ab566ff813ec8d7098709b80d7b4d6eca95e70b3
