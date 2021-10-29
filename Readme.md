@@ -1,5 +1,5 @@
 # DigitalOcean FreeBSD Droplet Setup
-[![Updated Badge](https://badges.pufler.dev/updated/aesycos/FreeBSD-Server)]
+[![Updated Badge](https://badges.pufler.dev/updated/aesycos/FreeBSD-Server)](ttps://badges.pufler.dev)
 
 ## Files
 |  Filename      | Description                                                               |
